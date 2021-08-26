@@ -1,0 +1,7 @@
+.navbar{
+    display:flex;
+    
+}
+.list-non-bullet li{
+    display:inline;
+}
