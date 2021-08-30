@@ -31,6 +31,7 @@ p{
     color:red;
     background:gainsboro;
     height:auto;
+    font-size: larger;
 }
 li{
     color:purple;
@@ -48,6 +49,7 @@ li{
     color:green;
     background:honeydew;
     height:auto;
+    font-size: larger;
 }
 nav{
     background: #f5f5f5
@@ -58,4 +60,8 @@ a{
 .background{
     background:linear-gradient(red,orange);
     color:blue;
+}
+.links
+{
+    font-size:larger;
 }
